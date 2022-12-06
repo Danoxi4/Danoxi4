@@ -1,13 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Selam 👋 I'm Daniel Alemayehu</h1>
+ <h1 align="center">Selam 👋 I'm Daniel Alemayehu</h1>
 <h3 align="center">A passionate Junior Software Developer</h3>
-<img align="right" alt="coding" width="400" src=" https://media1.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danoxi4&label=Profile%20views&color=0e75b6&style=flat" alt="danoxi4" /> </p>
+ 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danoxi4" alt="danoxi4" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@alemayehudani" target="blank"><img src="https://img.shields.io/twitter/follow/@alemayehudani?logo=twitter&style=for-the-badge" alt="@alemayehudani" /></a> </p>
 
 - 🌱 I’m currently learning **Nodejs, MongoDB, Express**
 
