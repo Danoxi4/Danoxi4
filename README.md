@@ -21,13 +21,8 @@ I am a passionate Software Engineer located at Addis Ababa, driven by a curiosit
 
 ## 📬 Get in Touch
 
-- Connect with me on [e](https://twitter.com/introvertedbot)
-- [![LinkedIn](/images/linkedin-icon.png)](https://www.linkedin.com/in/daniel-alemayehu-a58598222/)
-- [![Email](/images/email-icon.png)](mailto:<Your danialemayehu32@gmail.com>)
-
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
+- [![LinkedIn]](https://www.linkedin.com/in/daniel-alemayehu-a58598222/)
+- [![Email]](mailto:<Your danialemayehu32@gmail.com>)
 
 
 <!--
@@ -41,4 +36,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
