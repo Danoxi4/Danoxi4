@@ -16,7 +16,7 @@ I am a passionate Software Engineer located at Addis Ababa, driven by a curiosit
 - 🔭 I’m currently working on SIMS, ERP systems and other Projects
 - 🌱 I’m currently learning Mobile application development with flutter
 - 👯 I’m looking to collaborate on SaaS and BaaS projects
-- 🤔 I’m looking for help with my expertise as a backend developer
+- 🤔 I’m looking for help in frontend on my projects
 
 ## 📬 Get in Touch
 
