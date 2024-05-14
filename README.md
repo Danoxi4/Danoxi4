@@ -9,7 +9,7 @@ I am a passionate Software Engineer located at Addis Ababa, driven by a curiosit
 - 🔭 I'm currently pursuing my Bachelor's in Software Engineering at Bahirdar institute of technology.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,c++,js,html,css,nodejs,expressjs,nest,postgresql,mysql,mongodb,php,java,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,nodejs,expressjs,nest,postgresql,mysql,mongodb,php,java,flutter)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
