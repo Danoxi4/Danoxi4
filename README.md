@@ -10,7 +10,7 @@ I am a passionate Software Engineer located at Addis Ababa, driven by a curiosit
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,expressjs,nest,postgresql,Mysql,Mongodb,php,java,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,expressjs,nest,postgresql,mysql,mongodb,php,java,flutter)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
