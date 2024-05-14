@@ -21,8 +21,8 @@ I am a passionate Software Engineer located at Addis Ababa, driven by a curiosit
 
 ## 📬 Get in Touch
 
-- [![LinkedIn]](https://www.linkedin.com/in/daniel-alemayehu-a58598222/)
-- [![Email]](mailto:<Your danialemayehu32@gmail.com>)
+- (https://www.linkedin.com/in/daniel-alemayehu-a58598222/)
+- (danialemayehu32@gmail.com>)
 
 
 <!--
