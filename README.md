@@ -1,11 +1,8 @@
 # Hi, I'm Daniel Alemayehu! 👋
 
-I am a passionate Software Engineer located at Addis Ababa, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
-
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Software Engineering at Bahirdar institute of technology.
+I am a passionate Software Engineer located at Addis Ababa, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,nodejs,expressjs,nest,postgresql,mysql,mongodb,php,java,flutter)](https://skillicons.dev)
