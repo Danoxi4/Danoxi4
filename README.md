@@ -2,7 +2,6 @@
 
 I am a passionate Software Engineer located at Addis Ababa, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![Danoxi4's Stats](https://github-readme-stats.vercel.app/api?username=Danoxi4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
